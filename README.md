@@ -2,7 +2,7 @@
 
 Now you can edit your `precinct.sev` files!
 
-Currently works only with the newsest version of precinct.sev files (v11) which why you probably want this if you're looking for getting new maps into old server.
+Currently works only with the newest version of precinct.sev files (v11) which why you probably want this if you're looking for getting new maps into old server.
 
 Someday I'll add full support to all precinct versions. To keep an eye into this.
 
